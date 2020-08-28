@@ -8,8 +8,9 @@
 
 All apps featured on this page solve real live problems. All apps on this page include a lot of concepts that are new to me - from material textLayouts till properly overwriting hashcode(), everything here solves two purposes:
 
--to learn as much as possible 
--to solve a real live problem
+- to learn as much as possible 
+- to solve a real live problem
+
 
 ### Details make everything
 
