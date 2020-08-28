@@ -1,4 +1,4 @@
-# Personal Projects
+# trsonn.com
 ## Beginner android dev learning everything at the same time
 - problem-orientated
 - in love with details
