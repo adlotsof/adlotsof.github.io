@@ -1,7 +1,7 @@
 name: Tim Sonn
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-logo: logo.png
+logo: http://trsonn.com/logo.png
 show_downloads: false
 
 theme: jekyll-theme-minimal
