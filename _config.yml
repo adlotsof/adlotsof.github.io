@@ -3,5 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 logo: http://trsonn.com/logo.png
 show_downloads: false
+title: trsonn.com
+description: just a draft of something that will be my portfolio one day
 
 theme: jekyll-theme-minimal
