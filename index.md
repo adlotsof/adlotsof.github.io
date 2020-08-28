@@ -1,4 +1,4 @@
-# trsonn.com
+# Tim S
 ## Beginner android dev learning everything at the same time
 - problem-orientated
 - in love with details
@@ -20,3 +20,8 @@ As i learn all about software engineering while solving problems, a lot of times
 
 Still not every release will be perfect - as a real problem is not getting solved by refactoring code for the third time, but by having a working product. A quick fix is often the solution you might find in a early release - but a project is never finished before its not perfect.
 
+### Links to projects:
+
+| Moods and Meds |
+| --- | 
+| [Go to play store](https://play.google.com/store/apps/details?id=com.trsonn.dbtdiary) |
