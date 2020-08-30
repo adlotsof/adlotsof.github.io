@@ -1,5 +1,5 @@
 # Tim S
-## Beginner android dev learning everything at the same time
+## Android beginner learning everything at the same time
 - problem-orientated
 - in love with details
 - patient, but always choosing the quick fix
