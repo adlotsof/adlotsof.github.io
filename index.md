@@ -1,5 +1,6 @@
 # Tim S
-## Aspiring to be a professional developer
+## Future Pro Developer
+
 - problem-orientated
 - in love with details
 - patient, but always choosing the quick fix
