@@ -28,5 +28,7 @@ Still not every release will be perfect - as a real problem is not getting solve
 | ![(screenshot)](http://trsonn.com/moodsandmeds.jpg "moods and meds screenshot ") |![(screenshot2)](http://trsonn.com/speedflying.png "speedflying screenshot ") |
 | [Go to play store](https://play.google.com/store/apps/details?id=com.trsonn.dbtdiary) | [Not yet released](#) |
 
+### Hire me!
 
+I am currently looking for a way to spend more time working with solving problems. If you got an open position as an apprentice for Web, Database or Mobile Development,  [send an email](mailto:hire.trsonn@gmail.com) or  [download my CV](http://trsonn.com/cv.pdf). 
 
