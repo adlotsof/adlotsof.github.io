@@ -4,6 +4,9 @@ permalink: /blog/:year/:month/:day/:title
 logo: http://trsonn.com/logo.png
 show_downloads: false
 title: trsonn.com
-description: just a draft of something that will be my portfolio one day
+description: hire me!
+| Email | [send an email](mailto:hire.trsonn@gmail.com)|
+| Github |[Go to github](https://github.com/adlotsof)|
+| Hackerrank | [Go to hackerrank](https://www.hackerrank.com/trsonn) |
 
 theme: jekyll-theme-minimal
