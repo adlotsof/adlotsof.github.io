@@ -18,7 +18,7 @@ All apps featured on this page solve real live problems. All apps on this page i
 
 As I learn more about software engineering, each project grows. The solutions i had in mind when starting a new project usually don't end up in the finished app, as i learn new concepts and new solutions while pushing each project forward. Stil, I take pride in overhauling each detail, each class and each method to perfection.
 
-### Projects:
+### Projects
 
 | Moods and Meds | Speedflying Logbook |
 | --- | --- |
@@ -26,6 +26,7 @@ As I learn more about software engineering, each project grows. The solutions i 
 | [Go to play store](https://play.google.com/store/apps/details?id=com.trsonn.dbtdiary) | [Not yet released](#) |
 
 ### Certifications
+
 | Certificate | Description | Date |
 | --- | --- | --- |
 | ![terraform.png](http://trsonn.com/terraform.png) | Terraform Certified Associate - the key concepts of Terraform and its usage | 13.10.2021 |
