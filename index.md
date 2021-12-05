@@ -1,7 +1,7 @@
 # Tim S
 
 ## DevOps and Java Student
-### - seasoned with some Full Stack Web Expirience
+### - seasoned with some web experience -
 
 - problem-orientated
 - in love with details
