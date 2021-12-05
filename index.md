@@ -28,8 +28,8 @@ As I learn more about software engineering, each project grows. The solutions i 
 ### Certifications
 | Certificate | Description | Date |
 | --- | --- | --- |
-| [[terraform.png|width=140px]] | Terraform Certified Associate - the key concepts of Terraform and its usage | 13.10.2021 |
-| [[oci.jpg|width=140px]] | Oracle Cloud Infrastructure Architect Associate - The concepts used in oracle cloud infrastructure | 14.11.2021 |
+| [[terraform.png](http://trsonn.com/terraform.png) | Terraform Certified Associate - the key concepts of Terraform and its usage | 13.10.2021 |
+| [oci.jpg](http://trsonn.com/oci.jpg) | Oracle Cloud Infrastructure Architect Associate - Basics of Oracle Cloud Infrastructure and Architecture | 14.11.2021 |
 
 ### Hire me!
 
