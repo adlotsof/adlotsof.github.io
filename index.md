@@ -31,6 +31,8 @@ As I learn more about software engineering, each project grows. The solutions i 
 | --- | --- | --- |
 | ![terraform.png](http://trsonn.com/terraform.png "terraform certificate") | Terraform Certified Associate - the key concepts of Terraform and its usage | 13.10.2021 |
 | ![oci.jpg](http://trsonn.com/oci.jpg "oci associate certificate") | Oracle Cloud Infrastructure Architect Associate - Basics of Oracle Cloud Infrastructure and Architecture | 14.11.2021 |
+| ![atsqa.png](http://trsonn.com/atsqa.png "oci associate certificate") | ISTQB Foundation Level - Principles and best practices of software testing | 6.12.2021 |
+
 
 ### Hire me!
 
