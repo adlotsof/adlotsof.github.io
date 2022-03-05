@@ -7,17 +7,6 @@
 - in love with details
 - patient, but always choosing the quick fix first
 
-### Problem - Solver
-
-All apps featured on this page solve real live problems. All apps on this page include a lot of concepts that are new to me - from material textLayouts till properly overwriting hashcode(), everything here solves two purposes:
-
-- to learn as much as possible
-- to solve a real live problem
-
-### Details make everything
-
-As I learn more about software engineering, each project grows. The solutions i had in mind when starting a new project usually don't end up in the finished app, as i learn new concepts and new solutions while pushing each project forward. Stil, I take pride in overhauling each detail, each class and each method to perfection.
-
 ### Projects
 
 | Moods and Meds | Speedflying Logbook |
