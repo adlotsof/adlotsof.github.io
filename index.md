@@ -1,11 +1,14 @@
-# Tim S
+# Tim Sonnenberg
 
-## DevOps and Java Student
+## DevOps and Development 
 ### - seasoned with some web experience -
 
 - problem-orientated
 - in love with details
 - patient, but always choosing the quick fix first
+- > 1000 Parachute Jumps
+- > 250 Hours of Paragliding 
+- > 6 Months in 6 different countries
 
 ### Projects
 
@@ -26,5 +29,5 @@
 
 ### Hire me!
 
-I am currently looking for a way to spend more time working with solving problems. If you got an open position as an apprentice for DevOps, Web or Mobile Development,  [send an email](mailto:hire@trsonn.com) or  [download my CV](http://trsonn.com/cv.pdf). 
+I am currently looking for a way to spend more time working with solving problems. If you got an open position for a skilled DevOps - Development jack of all trades,  [send an email](mailto:hire@trsonn.com) or  [download my CV](http://trsonn.com/AnonCV.pdf). 
 
