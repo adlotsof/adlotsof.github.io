@@ -6,9 +6,9 @@
 - problem-orientated
 - in love with details
 - patient, but always choosing the quick fix first
-- > 1000 Parachute Jumps
-- > 250 Hours of Paragliding 
-- > 6 Months in 6 different countries
+- \> 1000 Parachute Jumps
+- \> 250 Hours of Paragliding 
+- \> 6 Months in 6 different countries
 
 ### Projects
 
