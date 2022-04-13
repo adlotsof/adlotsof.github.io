@@ -25,6 +25,7 @@
 | ![oci.jpg](http://trsonn.com/oci.jpg "oci associate certificate") | Oracle Cloud Infrastructure Architect Associate - Basics of Oracle Cloud Infrastructure and Architecture | 14.11.2021 |
 | ![atsqa.png](http://trsonn.com/atsqa.png "ISTQB Foundation Level") | ISTQB Foundation Level - Principles and best practices of software testing | 6.12.2021 |
 |  ![docker.png](http://trsonn.com/docker.png "Docker Certified associate") | Docker Certified Associate - In depth Docker CE & EE and basic concepts of kubernetes  | 14.2.2022 |
+| ![psm.png](http://trsonn.com/psm.png) | PSM I - Professional Scrum Master Fundamentals - since my current employeer is not using scrum, i felt i had to learn the framework | 12.4.2021 |
 
 
 ### Hire me!
